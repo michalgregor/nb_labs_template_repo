@@ -1,0 +1,13 @@
+/.cache/*
+/.eggs/*
+/UNKNOWN*
+/build/*
+/dist/*
+**/__pycache__/*
+*.egg-info/*
+*.pyc
+examples/output/*
+.ipynb_checkpoints
+**/data
+**/output
+/DRIVE_MATERIAL/**
